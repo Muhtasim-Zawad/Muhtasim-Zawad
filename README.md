@@ -9,7 +9,11 @@
 <!--                        HERO SECTION                           -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Muhtasim%20Zawad&fontSize=72&fontColor=b5179e&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20Architect&descSize=16&descAlignY=75&descColor=00f5ff&animation=fadeIn&fontFamily=Courier+New"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Muhtasim%20Zawad&fontSize=72&fontColor=b5179e&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20Architect&descSize=16&descAlignY=75&descColor=00f5ff&animation=fadeIn&fontFamily=Courier+New"/> -->
+
+### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&pause=99999&color=FF2D78&center=true&vCenter=true&width=1000&height=60&lines=MUHTASIM+ZAWAD" alt="muhtasim zawad"/>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=FF2D78&center=true&vCenter=true&width=1000&height=30&lines=AI%2FML+Engineer+%7C+Backend+Architect" alt="AI/ML Engineer | Backend Architect"/>
 
 <br/>
 
