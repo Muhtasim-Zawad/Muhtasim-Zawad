@@ -143,7 +143,7 @@
 
 <br/>
 
-<a href="https://github.com/Muhtasim-Zawad/Resume/raw/main/assets/cv.pdf" target="_blank">
+<a href="https://drive.google.com/file/d/1GFnqTWCBsl8fLsC4TGrhWOTnVw-rogi2/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-ff2d78?style=for-the-badge&logo=adobeacrobatreader&logoColor=0a0e1a"/>
 </a>
 
@@ -237,71 +237,73 @@
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Project Alpha — LLM-Powered App**
+**🤖 Project CiteKit — AI-Powered Research Discovery**
 
-> A placeholder for your coolest LLM / RAG / AI project. Replace this with the real thing.
+> A 4-agent LangGraph pipeline for multi-source paper discovery and citation network visualization.
 
-`Python` `FastAPI` `LangChain` `PostgreSQL` `Docker`
+`Python` `LangGraph` `FastAPI` `React` `Supabase` `Groq`
 
-- RAG pipeline with vector search
-- REST API with async FastAPI backend
-- Custom prompt engineering layer
-- Deployed with Docker + cloud infra
+- 4-agent LangGraph pipeline aggregating OpenAlex, Semantic Scholar, CrossRef, and Dimensions
+- Async FastAPI backend with JWT authentication and persistent memory
+- LLM query expansion via Groq with hybrid relevance-frequency paper ranking
+- Full-stack research workspace featuring citation network visualization and thread-based chat
 
-[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad)
-[![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad)
+[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad/Project_CiteKit)
+<!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
 <td width="50%" valign="top">
 
-**🧬 Project Beta — ML Pipeline**
+**📦 Project Baksho — Crowdfunding Platform**
 
-> A placeholder for a solid ML engineering or data science project. Make it yours.
+> A full-stack crowdfunding platform with multi-portal management, integrated Stripe payments, and real-time dashboard analytics.
 
-`PyTorch` `Scikit-learn` `FastAPI` `MongoDB`
+`Next.js` `TypeScript` `Tailwind CSS` `Stripe` `Radix UI`
 
-- End-to-end training + inference pipeline
-- Model versioning & experiment tracking
-- REST API serving predictions
-- Clean dataset preprocessing workflow
+- 3 distinct portals (User, Organizer, Admin) covering campaign creation, moderation, and management
+- Secure Stripe payment integration and robust JWT-based user authentication
+- Live dynamic dashboards featuring data visualization and analytics via Recharts
+- Modular component library built with Radix UI, React Hook Form, and Zod validation
 
-[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad)
-[![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad)
+[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad/Project_Baksho.git)
+<!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⚙️ Project Gamma — Backend System**
+**🗄️ PicoDB — Lightweight C++ SQL Library**
 
-> A placeholder for a backend-heavy project — APIs, auth, distributed systems, etc.
+> A lightweight C++ SQL simulation engine featuring relational operations and CSV-based data persistence.
 
-`Node.js` `Express` `Redis` `PostgreSQL`
+`C++` `CMake` `SQL` `CSV` `Cryptography`
 
-- JWT auth with role-based access control
-- Rate limiting & caching with Redis
-- RESTful API design with OpenAPI docs
-- CI/CD pipeline with GitHub Actions
+- Core SQL engine supporting `SELECT`, `INSERT`, `UPDATE`, `DELETE`, table `JOIN`s, and subqueries
+- Relational integrity layer managing primary and foreign key constraints with `WHERE` clause filtering
+- Built-in data utility suite featuring XOR encryption and string, numeric, and date formatting functions
+- Lightweight, zero-dependency persistence architecture utilizing CSV file storage
 
-[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad)
-[![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad)
+[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/thebigby10/PicoDB.git)
+<!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
 <td width="50%" valign="top">
 
-**🔭 More In The Lab...**
+**📊 FictiPay Churn — Datathon**
 
-> Constantly shipping. Check the repos for the latest experiments.
+> LightGBM pipeline on 595K accounts using Polars and SHAP to predict and interpret user churn.
 
-`Hugging Face` `TensorFlow` `Django` `Go`
+`Python` `Polars` `LightGBM` `SHAP` `Optuna`
 
-- Fine-tuning experiments & model evals
-- CLI tools & developer utilities
-- Open-source contributions
-- Whatever rabbit hole I fell into this week
+- Engineered 53 features using Polars on 595K accounts
+- Optimized LightGBM via Optuna with stratified cross-validation
+- Isolated key churn drivers using SHAP interpretability
+- Modeled user stickiness with custom `drop_off_score` and `switching_cost` metrics
 
-[![All Repos](https://img.shields.io/badge/View%20All%20Repos-0a0e1a?style=flat-square&logo=github&logoColor=c77dff)](https://github.com/Muhtasim-Zawad?tab=repositories&sort=stargazers)
+[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)]([https://github.com/thebigby10/PicoDB.git](https://github.com/Muhtasim-Zawad/nsucec-cybernauts-datathon-2026.git))
+
+<!-- [![All Repos](https://img.shields.io/badge/View%20All%20Repos-0a0e1a?style=flat-square&logo=github&logoColor=c77dff)](https://github.com/Muhtasim-Zawad?tab=repositories&sort=stargazers) -->
 
 </td>
 </tr>
