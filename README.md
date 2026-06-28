@@ -213,7 +213,13 @@
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhtasim-Zawad&bg_color=0a0e1a&color=00f5ff&line=ff2d78&point=ffffff&area_color=0d1b2a&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&title_color=ff2d78" width="98%" alt="Contribution Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhtasim-Zawad&bg_color=0a0e1a&color=00f5ff&line=ff2d78&point=ffffff&area_color=0d1b2a&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&title_color=ff2d78" width="98%" alt="Contribution Graph"/> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhtasim-Zawad/Muhtasim-Zawad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhtasim-Zawad/Muhtasim-Zawad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhtasim-Zawad/Muhtasim-Zawad/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
@@ -249,6 +255,7 @@
 - Full-stack research workspace featuring citation network visualization and thread-based chat
 
 [![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad/Project_CiteKit)
+
 <!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
@@ -266,6 +273,7 @@
 - Modular component library built with Radix UI, React Hook Form, and Zod validation
 
 [![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/Muhtasim-Zawad/Project_Baksho.git)
+
 <!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
@@ -285,6 +293,7 @@
 - Lightweight, zero-dependency persistence architecture utilizing CSV file storage
 
 [![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/thebigby10/PicoDB.git)
+
 <!-- [![Live](https://img.shields.io/badge/Live%20Demo-0a0e1a?style=flat-square&logo=vercel&logoColor=ff2d78)](https://github.com/Muhtasim-Zawad) -->
 
 </td>
@@ -301,7 +310,7 @@
 - Isolated key churn drivers using SHAP interpretability
 - Modeled user stickiness with custom `drop_off_score` and `switching_cost` metrics
 
-[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)]([https://github.com/thebigby10/PicoDB.git](https://github.com/Muhtasim-Zawad/nsucec-cybernauts-datathon-2026.git))
+[![Repo](https://img.shields.io/badge/Source%20Code-0a0e1a?style=flat-square&logo=github&logoColor=00f5ff)](<[https://github.com/thebigby10/PicoDB.git](https://github.com/Muhtasim-Zawad/nsucec-cybernauts-datathon-2026.git)>)
 
 <!-- [![All Repos](https://img.shields.io/badge/View%20All%20Repos-0a0e1a?style=flat-square&logo=github&logoColor=c77dff)](https://github.com/Muhtasim-Zawad?tab=repositories&sort=stargazers) -->
 
