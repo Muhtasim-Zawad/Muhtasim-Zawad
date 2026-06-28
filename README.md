@@ -182,7 +182,7 @@
 <br/><br/>
 
 <!-- Flowing animation GIF break -->
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="500" alt="coding animation"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="500" alt="coding animation"/> -->
 
 </div>
 
@@ -201,7 +201,7 @@
 <br/>
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Muhtasim-Zawad&count_private=true&theme=dark&hide_border=true&background=0a0e1a&ring=ff2d78&fire=c77dff&currStreakLabel=ff2d78&sideLabels=00f5ff&dates=c77dff&sideNums=ffffff&currStreakNum=ff2d78&stroke=0d1b2a" alt="GitHub Streak" width="98%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Muhtasim-Zawad&count_private=true&theme=dark&hide_border=true&background=0a0e1a&ring=ff2d78&fire=c77dff&currStreakLabel=ff2d78&sideLabels=00f5ff&dates=c77dff&sideNums=ffffff&currStreakNum=ff2d78&stroke=0d1b2a" alt="GitHub Streak" width="75%"/>
 
 <br/><br/>
 
