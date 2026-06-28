@@ -19,7 +19,8 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_username: ${{ github.repository_owner }}
+          github_user_name: "Muhtasim-Zawad" # Must be github_user_name with your real profile name
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
