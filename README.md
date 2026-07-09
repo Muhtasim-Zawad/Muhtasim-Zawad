@@ -35,7 +35,7 @@
 
 <br/>
 <!-- Social Links -->
-<a href="https://placeholder-portfolio.netlify.app" target="_blank">
+<a href="https://muhtasim-zawad.github.io/muhtasim-zawad-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=Safari&logoColor=c77dff&labelColor=0a0e1a"/>
 </a>&nbsp;
 <a href="https://github.com/Muhtasim-Zawad" target="_blank">
@@ -387,7 +387,7 @@
   </a>
 </td>
 <td align="center" width="150">
-  <a href="https://placeholder-portfolio.netlify.app">
+  <a href="https://muhtasim-zawad.github.io/muhtasim-zawad-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=Safari&logoColor=ff2d78"/><br/>
     <sub>zawad-portfolio</sub>
   </a>
